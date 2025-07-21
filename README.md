@@ -1,8 +1,6 @@
- Hi, I am Muhammad Awais 👋
+**Hi, I am Muhammad Awais 👋**
 
-A passionate Front-End Developer from Pakistan
-
-Here are some ideas to get you started:
+**A passionate Front-End Developer from Pakistan**
 
 ## 🚀 About Me:
 - 🔭 I’m currently working on **React Projects**
