@@ -8,10 +8,15 @@
 ---
 
 - 🔭 I’m currently working on **React Projects**
+  
 - 🌱 I’m currently learning **Redux, TypeScript**
+  
 - 👯 I’m looking to collaborate on **Open Source Projects**
+  
 - 💬 Ask me about **React, JavaScript**
+  
 - 📫 Reach me at **awaisshakoor65@gmail.com**
+  
 - ⚡ Fun fact: I love **logic puzzles** and exploring **new frontend tools**
 
 ---
